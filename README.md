@@ -28,4 +28,3 @@ Sebelum memulai, pastikan kamu sudah memiliki hal-hal berikut di sistemmu:
    Pastikan kamu menginstal dependensi menggunakan pip.
    ```bash
    pip install -r requirements.txt
-
