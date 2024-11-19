@@ -24,3 +24,8 @@ Sebelum memulai, pastikan kamu sudah memiliki hal-hal berikut di sistemmu:
    ```bash
    git clone https://github.com/username/repository-name.git
    cd repository-name
+2. **Install dependencies**:
+   Pastikan kamu menginstal dependensi menggunakan pip.
+   ```bash
+   pip install -r requirements.txt
+
