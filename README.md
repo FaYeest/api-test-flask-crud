@@ -28,3 +28,11 @@ Sebelum memulai, pastikan kamu sudah memiliki hal-hal berikut di sistemmu:
    Pastikan kamu menginstal dependensi menggunakan pip.
    ```bash
    pip install -r requirements.txt
+3. Running:
+   Silahkan menjalankan Flask App nya
+   ```bash
+   python main.py
+4. Testing API:
+   Silahkan gunakan POSTMAN atau Thunder Client untuk mengetest api
+   - https://www.postman.com/downloads/
+   - https://www.thunderclient.com/
